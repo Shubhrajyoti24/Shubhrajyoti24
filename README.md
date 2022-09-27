@@ -8,6 +8,8 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 
+[![@holosj24's Holopin board](https://holopin.io/api/user/board?user=holosj24)](https://holopin.io/@holosj24)
+
 <!--
 **Shubhrajyoti24/Shubhrajyoti24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
